@@ -335,7 +335,6 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!1 &333153238
 GameObject:
   m_ObjectHideFlags: 0
@@ -452,8 +451,6 @@ MeshFilter:
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 =======
 >>>>>>> parent of 6a695ce (Prefab creation)
-=======
->>>>>>> parent of 8e6bc86 (what I typed last time)
 --- !u!1 &428666571
 GameObject:
   m_ObjectHideFlags: 0
@@ -568,7 +565,6 @@ Transform:
   m_Father: {fileID: 1239042696}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &500455800
 GameObject:
@@ -686,8 +682,6 @@ MeshFilter:
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 =======
 >>>>>>> parent of 6a695ce (Prefab creation)
-=======
->>>>>>> parent of 8e6bc86 (what I typed last time)
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -835,14 +829,10 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
 <<<<<<< HEAD
-<<<<<<< HEAD
   - {fileID: 2100000, guid: 091d2b404b2f41b40970acc0f1033935, type: 2}
 =======
   - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
 >>>>>>> parent of 6a695ce (Prefab creation)
-=======
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
->>>>>>> parent of 8e6bc86 (what I typed last time)
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -971,7 +961,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1010073407
 =======
@@ -1252,8 +1241,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1086364885}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
-=======
->>>>>>> parent of 8e6bc86 (what I typed last time)
 --- !u!1 &1239042695
 GameObject:
   m_ObjectHideFlags: 0
@@ -1286,6 +1273,12 @@ Transform:
   - {fileID: 428666576}
   - {fileID: 2037019408}
   - {fileID: 2003446763}
+  - {fileID: 500455801}
+  - {fileID: 1925556503}
+  - {fileID: 1010073408}
+  - {fileID: 1086364886}
+  - {fileID: 333153239}
+  - {fileID: 2024411095}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1401,21 +1394,16 @@ Transform:
   m_GameObject: {fileID: 1801894207}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_LocalPosition: {x: 2.85, y: 7.7745037, z: 31.93}
 =======
   m_LocalPosition: {x: 4.1, y: 7.7745037, z: 31.93}
 >>>>>>> parent of 6a695ce (Prefab creation)
-=======
-  m_LocalPosition: {x: 4.1, y: 7.7745037, z: 31.93}
->>>>>>> parent of 8e6bc86 (what I typed last time)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1925556502
 GameObject:
@@ -1533,8 +1521,6 @@ MeshFilter:
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 =======
 >>>>>>> parent of 6a695ce (Prefab creation)
-=======
->>>>>>> parent of 8e6bc86 (what I typed last time)
 --- !u!1 &2003446758
 GameObject:
   m_ObjectHideFlags: 0
@@ -1649,7 +1635,6 @@ Transform:
   m_Father: {fileID: 1239042696}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &2024411094
 GameObject:
@@ -1767,8 +1752,6 @@ MeshFilter:
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 =======
 >>>>>>> parent of 6a695ce (Prefab creation)
-=======
->>>>>>> parent of 8e6bc86 (what I typed last time)
 --- !u!1 &2037019403
 GameObject:
   m_ObjectHideFlags: 0
