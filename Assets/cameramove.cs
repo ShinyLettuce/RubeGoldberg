@@ -19,20 +19,25 @@ public class cameramove : MonoBehaviour
             transform.position = new Vector3(-2.2f, 21.5f, 5.7f);
             transform.rotation = Quaternion.Euler(90, -90, 0);
         }
-        if (Time.realtimeSinceStartup > 14) //OG: 15 without charger
+        if (Time.realtimeSinceStartup > 14)
         {
             transform.position = new Vector3(-17.8f, 11.5f, -26.3f);
             transform.rotation = Quaternion.Euler(38.3f, 0, 0);
         }
-        if (Time.realtimeSinceStartup > 20) //OG:22
+        if (Time.realtimeSinceStartup > 20)
         {
             transform.position = new Vector3(-12.9f, -11f, -12.9f);
             transform.rotation = Quaternion.Euler(47.1f, 0, 0);
         }
-        if (Time.realtimeSinceStartup > 24) //OG: 30
+        if (Time.realtimeSinceStartup > 23)
         {
             transform.position = new Vector3(-12.9f, -56.6f, -16.9f);
             transform.rotation = Quaternion.Euler(-46.2f, 0, 0);
+        }
+        if (Time.realtimeSinceStartup > 25)
+        {
+            transform.position = new Vector3(-5f, -56.6f, 0);
+            transform.rotation = Quaternion.Euler(90f, 0, 0);
         }
     }
 }
