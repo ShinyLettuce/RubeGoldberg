@@ -39,5 +39,10 @@ public class cameramove : MonoBehaviour
             transform.position = new Vector3(-5f, -56.6f, 0);
             transform.rotation = Quaternion.Euler(90f, 0, 0);
         }
+
+        if (Input.GetKeyDown(KeyCode.Escape)) 
+        {
+            Application.Quit();
+        }
     }
 }
